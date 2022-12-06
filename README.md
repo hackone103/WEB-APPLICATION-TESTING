@@ -8,7 +8,7 @@ Web Testing, or website testing is checking your web application or website for 
    <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/2.Subdomain%20Enumeration">Subdomain Enumeration</a>
 
 ### :- Web Vulnerabilities
-<a href="">Arbitrary File Upload</a>\
+ <a href="">Arbitrary File Upload</a>\
 <a href="">Business Logic Errors</a>\
 <a href="">CRLF Injection</a>\
 <a href="">Cross Site Request Forgery (CSRF)</a>\
@@ -26,7 +26,7 @@ Web Testing, or website testing is checking your web application or website for 
 <a href="">Server Side Request Forgery</a>\
 <a href="">SQL Injection (SOON)</a>\
 <a href="">Web Cache Deception</a>\
-<span class="css-truncate css-truncate-target d-block width-fit"><a href="">Web Cache Poisoning</a></span>
+<a href="">Web Cache Poisoning</a>
    
 
 
