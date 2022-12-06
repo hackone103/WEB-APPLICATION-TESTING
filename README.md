@@ -10,6 +10,7 @@ Web Testing, or website testing is checking your web application or website for 
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Subdomain%20Enumeration/Subdomain-Enum.md">Subdomain Enumeration</a>
 
 ### Web Vulnerabilities
+* <a href="">Host Header Injection</a>
 * <a href="">Arbitrary File Upload</a>
 * <a href="">Business Logic Errors</a>
 * <a href="">CRLF Injection</a>
@@ -17,7 +18,6 @@ Web Testing, or website testing is checking your web application or website for 
 * <a href="">Cross Site Scripting (XSS)</a>
 * <a href="">Denial of Service (DoS)</a>
 * <a href="">Exposed Source Code</a>
-* <a href="">Host Header Injection</a>
 * <a href="">Insecure Direct Object References (IDOR)</a>
 * <a href="">Local File Inclusion (LFI)</a>
 * <a href="">Mass Assignment</a>
