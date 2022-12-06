@@ -25,3 +25,9 @@ Web Testing, or website testing is checking your web application or website for 
 
 
 ### Resource 
+
+
+
+
+### Awesome-Bugbounty-Writeups
+  <a href="https://github.com/hackerrishad/Awesome-Bugbounty-Writeups">1. hackerrishad</a>
