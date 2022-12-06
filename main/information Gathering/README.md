@@ -71,9 +71,13 @@
      +   Reverse Whois Lookup : https://www.reversewhois.io/
      +   Whoxy : https://www.whoxy.com/
 
-## etc information 
+* <a href="">DNS Recon</a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
 
 
+## Open Source Site
 #### Search engine
 1. Google    :   https://www.google.com/
 2. Yahoo!    :   https://in.search.yahoo.com/
