@@ -9,6 +9,25 @@ Web Testing, or website testing is checking your web application or website for 
 
 ### :- Web Vulnerabilities
    <a href="">Web Vulnerabilities</a>
+   Arbitrary File Upload
+Business Logic Errors
+CRLF Injection
+Cross Site Request Forgery (CSRF)
+Cross Site Scripting (XSS)
+Denial of Service (DoS)
+Exposed Source Code
+Host Header Injection
+Insecure Direct Object References (IDOR)
+Local File Inclusion (LFI)
+Mass Assignment
+NoSQL Injection
+OAuth Misconfiguration
+Open Redirect
+Remote File Inclusion (RFI)
+Server Side Request Forgery
+SQL Injection (SOON)
+Web Cache Deception
+Web Cache Poisoning
    
 
 
