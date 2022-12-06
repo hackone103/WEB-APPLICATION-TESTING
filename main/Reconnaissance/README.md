@@ -1,25 +1,21 @@
 # Reconnaissance
 
-### Type of Reconnaissance
+#### Type of Reconnaissance
  > Active Reconnaissance
  > Passive Reconnaissance
 
-## Network Information
+#### Network Information
   - IP address
   - Domain Names
   - TCP/UDP Service
   - VPN / IDS / IPS / Firewall info
 
-## Operating System information
+#### Operating System information
   - User & Group Names / info
   - System Architeccture
   - Service information
 
-## Organization Information
-
-----------------------------------------
-
-## External / Public Network
+#### (Organization Information) External / Public Network
  - Network
  - Phone
  - Website
@@ -36,7 +32,7 @@
  - People sites
  - Job Site
 
-## Internal Network / Private
+#### Internal Network / Private
  - Internal / Private Ip address
  - Private website
  - Internal DNS
@@ -44,37 +40,16 @@
  - Shoulder Suring
  - Eavesdropping
 
-### 1. Information Gathering by Websites.
-  - Domain
-  - gmail
-  - XML sitemap
-  - Generate Site Map xml
-     +  https://www.mysitemapgenerator.com/
+* <a href="">Passive Recon</a>
+* <a href="">Technologies Recon</a>
+* <a href="">WebSite Reconn</a>
+* <a href="">DNS Reconn</a>
+* <a href="">OSINT Reconn</a>
+* <a href="">Google Dorks</a>
+* <a href="">GitHub Dorks</a>
+* <a href="">Shodan Dorks</a>
 
-  - Source Code
-  - Web mirror  
-     + ```wget -m <target.com>```
-     + HTTrack 
 
-  - Archive sites
-     + Archive : https://archive.org/
-
-  - Whois
-     + Who.is : https://who.is/
-     + Whois  : https://www.whois.com/
-
-  - Check Registra
-     + godaddy : https://www.godaddy.com/en-in/whois  
-
-  - Revers whois
-     +   View.DNS : https://viewdns.info/
-     +   Reverse Whois Lookup : https://www.reversewhois.io/
-     +   Whoxy : https://www.whoxy.com/
-
-* <a href="">DNS Recon</a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
 
 
 ## Open Source Site

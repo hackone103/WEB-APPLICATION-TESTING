@@ -44,36 +44,6 @@
  - Shoulder Suring
  - Eavesdropping
 
-## Information Gathering by Websites.
-  - Domain
-  - gmail
-  - XML sitemap
-  - Generate Site Map xml
-     +  https://www.mysitemapgenerator.com/
-
-  - Source Code
-  - Web mirror  
-     + ```wget -m <target.com>```
-     + HTTrack 
-
-  - Archive sites
-     + Archive : https://archive.org/
-
-  - Whois
-     + Who.is : https://who.is/
-     + Whois  : https://www.whois.com/
-
-  - Check Registra
-     + godaddy : https://www.godaddy.com/en-in/whois  
-
-  - Revers whois
-     +   View.DNS : https://viewdns.info/
-     +   Reverse Whois Lookup : https://www.reversewhois.io/
-     +   Whoxy : https://www.whoxy.com/
-
-## etc information 
-
-
 #### Search engine
 1. Google    :   https://www.google.com/
 2. Yahoo!    :   https://in.search.yahoo.com/
