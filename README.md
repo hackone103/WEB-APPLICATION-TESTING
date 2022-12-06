@@ -10,7 +10,7 @@ Web Testing, or website testing is checking your web application or website for 
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Subdomain%20Enumeration/Subdomain-Enum.md">Subdomain Enumeration</a>
 
 ### Web Vulnerabilities
-* <a href="">Host Header Injection</a>
+* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Web-Vulnerabilities/Host%20Header%20Injection/Host%20Header%20Injection.md">Host Header Injection</a>
 * <a href="">Arbitrary File Upload</a>
 * <a href="">Business Logic Errors</a>
 * <a href="">CRLF Injection</a>
