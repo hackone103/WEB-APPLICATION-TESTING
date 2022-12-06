@@ -2,7 +2,7 @@
 Web Testing, or website testing is checking your web application or website for potential bugs before its made live and is accessible to ...
 
 ### Reconnaissance
-* <a href="">Information Gathering</a>
+* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/tree/main/main/information%20Gathering">Information Gathering</a>
 * <a href="https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Scope.md">Scope Based Recon</a>
    
 
