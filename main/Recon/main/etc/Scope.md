@@ -64,4 +64,4 @@ Everything related to the Organization is a part of Scope. This includes child c
 - [x] And any possible Recon Vector (Network/Web) can be applied.​
 
 ### SiteMap
-* <a hred="https://xmind.app/m/hKKexj/">xmind</a>
+- <a hred="https://xmind.app/m/hKKexj/">xmind</a>
