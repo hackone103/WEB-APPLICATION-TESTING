@@ -1,7 +1,7 @@
 ### Reconnaissance
 
 #### Reconnaissance
-* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/tree/main/main/information%20Gathering/BugBounty-reconn">Reconnaissance</a>
+* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/information%20Gathering/BugBounty-reconn/1.Reconnaissance.md">Reconnaissance</a>
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/information%20Gathering/BugBounty-reconn/2.Dns%20Reconnaissance.md">DNS</a>
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/information%20Gathering/BugBounty-reconn/3.OnlineReconnaissance.md">Online</a>
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/information%20Gathering/BugBounty-reconn/4.ShodonReconnaissance.md">Shodon</a>
