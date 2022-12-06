@@ -3,6 +3,8 @@ Web Testing, or website testing is checking your web application or website for 
 
 ### Reconnaissance
    <a href="">Information Gathering</a>
+   <a href="https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Scope.md">Scope Based Recon</a>
+   
 
 ### Subdomain Enumeration   
    <a href="">Subdomain Enumeration</a>
