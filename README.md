@@ -1,11 +1,11 @@
-## :- WEB-APPLICATION-TESTING
+## WEB-APPLICATION-TESTING
 Web Testing, or website testing is checking your web application or website for potential bugs before its made live and is accessible to ...
 
-### :- Information Gathering
-   <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/tree/main/1.%20Information%20Gathering">Information Gathering</a>
+### :- Reconnaissance
+   <a href="">Information Gathering</a>
 
 ### :- Subdomain Enumeration   
-   <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/2.Subdomain%20Enumeration">Subdomain Enumeration</a>
+   <a href="">Subdomain Enumeration</a>
 
 ### :- Web Vulnerabilities
  <a href="">Arbitrary File Upload</a>\
