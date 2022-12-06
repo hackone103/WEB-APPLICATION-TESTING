@@ -28,8 +28,8 @@ Web Testing, or website testing is checking your web application or website for 
 <a href="">Server Side Request Forgery</a>\
 <a href="">SQL Injection (SOON)</a>\
 <a href="">Web Cache Deception</a>\
-*<a href="">Web Cache Poisoning</a>
-
+* <a href="">Web Cache Poisoning</a>
+* [PortSwigger](https://portswigger.net/web-security/host-header/exploiting)
 
 
 
