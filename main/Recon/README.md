@@ -51,7 +51,7 @@
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/Shodon.md">Shodan Dorks</a>
 
 ### Resource.
-* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/etc/sa7ar19.md">Passive Recon</a>
+* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/etc/sa7ar19.md">sa7ar19</a>
 
 
 
