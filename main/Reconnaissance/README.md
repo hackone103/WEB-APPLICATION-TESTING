@@ -40,7 +40,7 @@
  - Shoulder Suring
  - Eavesdropping
 
-* <a href="">Passive Recon</a>
+* <a href="main/DNS-Recon">Passive Recon</a>
 * <a href="">Technologies Recon</a>
 * <a href="">WebSite Reconn</a>
 * <a href="">DNS Reconn</a>
