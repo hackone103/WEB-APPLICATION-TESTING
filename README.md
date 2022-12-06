@@ -1,13 +1,13 @@
 ## WEB-APPLICATION-TESTING
 Web Testing, or website testing is checking your web application or website for potential bugs before its made live and is accessible to ...
 
-### :- Reconnaissance
+### Reconnaissance
    <a href="">Information Gathering</a>
 
-### :- Subdomain Enumeration   
+### Subdomain Enumeration   
    <a href="">Subdomain Enumeration</a>
 
-### :- Web Vulnerabilities
+### Web Vulnerabilities
  <a href="">Arbitrary File Upload</a>\
 <a href="">Business Logic Errors</a>\
 <a href="">CRLF Injection</a>\
