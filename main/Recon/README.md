@@ -50,6 +50,8 @@
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/GitHub-Dorks.md">GitHub Dorks</a>
 * <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/Shodon.md">Shodan Dorks</a>
 
+### etc Path.
+* <a href="https://github.com/hackone103/WEB-APPLICATION-TESTING/blob/main/main/Recon/main/etc/sa7ar19.md">Passive Recon</a>
 
 
 
