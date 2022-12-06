@@ -10,23 +10,23 @@ Web Testing, or website testing is checking your web application or website for 
 ### :- Web Vulnerabilities
    <a href="">Web Vulnerabilities</a>
     Arbitrary File Upload
-    <a href="">Business Logic Errors</a>
-    <a href="">CRLF Injection</a>
-    <a href="">Cross Site Request Forgery (CSRF)</a>
-    <a href="">Cross Site Scripting (XSS)</a>
-    <a href="">Denial of Service (DoS)</a>
-    <a href="">Exposed Source Code</a>
-    <a href="">Host Header Injection</a>
-    <a href="">Insecure Direct Object References (IDOR)</a>
-    <a href="">Local File Inclusion (LFI)</a>
-    <a href="">Mass Assignment</a>
-    <a href="">NoSQL Injection</a>
-    <a href="">OAuth Misconfiguration</a>
-    <a href="">Open Redirect</a>
-    <a href="">Remote File Inclusion (RFI)</a>
-    <a href="">Server Side Request Forgery</a>
-    <a href="">SQL Injection (SOON)</a>
-    <a href="">Web Cache Deception</a>
+    <a href="">Business Logic Errors</a>\
+    <a href="">CRLF Injection</a>\
+    <a href="">Cross Site Request Forgery (CSRF)</a>\
+    <a href="">Cross Site Scripting (XSS)</a>\
+    <a href="">Denial of Service (DoS)</a>\
+    <a href="">Exposed Source Code</a>\
+    <a href="">Host Header Injection</a>\
+    <a href="">Insecure Direct Object References (IDOR)</a>\
+    <a href="">Local File Inclusion (LFI)</a>\
+    <a href="">Mass Assignment</a>\
+    <a href="">NoSQL Injection</a>\
+    <a href="">OAuth Misconfiguration</a>\
+    <a href="">Open Redirect</a>\
+    <a href="">Remote File Inclusion (RFI)</a>\
+    <a href="">Server Side Request Forgery</a>\
+    <a href="">SQL Injection (SOON)</a>\
+    <a href="">Web Cache Deception</a>\
     <a href="">Web Cache Poisoning</a>
    
 
