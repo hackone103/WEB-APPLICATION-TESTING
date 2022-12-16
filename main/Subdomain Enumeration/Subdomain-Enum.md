@@ -77,6 +77,7 @@ wfuzz -c -f sub-fighter -w wordlist.com -u 'https://target.com' -H "Host: FUZZ.t
 ```
 gobuster dns -d targe.com -t 50 -w wordlist.txt
 ```
+<a href="https://github.com/imrannissar/Content-discovery">CD-Wordlist</a>
 
 # 4.Port Scanning
 ### Naabu 
