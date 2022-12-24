@@ -69,9 +69,13 @@ shuffledns -d domain.com -w wordlist.txt -r resolver.txt -o output.txt
 ```
 knockpy domain.com -w wordlist.txt
 ```
-#### ffuf 
+#### wfuzz
 ```
-wfuzz -c -f sub-fighter -w wordlist.com -u 'https://target.com' -H "Host: FUZZ.target.com" 
+wfuzz -c -f sub-fighter -w wordlist.com -u 'https://target.com' -H "Host: FUZZ.target.com"
+
+# ffuf
+ffuf -c -w wordlist.txt -u https://target.com -H "Host: FUZZ.target.com" -of csv -o ffuf.csv
+
 ```
 #### gobuster 
 ```
