@@ -12,3 +12,9 @@ jq '.asns[index]' | tr -d 'remove point'
 
 
 ```
+
+
+Tk5651{
+    "Name":"Tikesh",
+    "Phone":"151515151"
+}
