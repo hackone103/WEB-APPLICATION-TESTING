@@ -97,9 +97,13 @@ cat domain.txt  | aquatone -resolution -out src
 
 ```
 # 6.Domain Convert HTTP and HTTPS
-#### httprobe
+#### httprobe && httpx
 ```
 cat subfinder.txt | httprobe
+
+# httpx -tech-detect
+cat <Domain-and-ip> httpx -silent -probe -tech-detect -status-code 
+
 ```
 
 # 7.Links
