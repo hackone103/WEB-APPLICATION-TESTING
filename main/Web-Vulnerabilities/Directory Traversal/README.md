@@ -188,6 +188,12 @@ The following log files are controllable and can be included with an evil payloa
 /var/log/sshd.log
 /var/log/mail
 ```
+
+## OWASP 
+* <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion">PayloadsAllTheThings
+</a>
+
+
 ## Labs
 
 * [File path traversal, simple case](https://portswigger.net/web-security/file-path-traversal/lab-simple)
