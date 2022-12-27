@@ -48,6 +48,7 @@ Web Testing, or website testing is checking your web application or website for 
 
 
 ### :- Resource 
+* <a href="https://github.com/OWASP/www-project-web-security-testing-guide/tree/master/latest/4-Web_Application_Security_Testing">WSTG Web Application Security Testing</a>
 
 
 
