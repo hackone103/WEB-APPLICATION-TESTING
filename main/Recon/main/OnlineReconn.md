@@ -82,3 +82,37 @@
 #### Decode and Encode
 1. URLencoder    :  https://www.urlencoder.org/
 2. CyberChef  : https://gchq.github.io/CyberChef/ 
+
+### Online information Gathering Websites
+-------------------------------------------
+1.  Google          https://google.com/
+2.  Shodan          https://www.shodan.io/
+3.  Wigle           https://www.wigle.net/
+4.  Grep            https://grep.app/
+5.  Onyphe          https://www.onyphe.io/
+6.  Viz.greynoise   https://viz.greynoise.io/
+7.  Censys          https://censys.io/
+8.  Hunter          https://hunter.io/
+9.  Zoomeye         https://www.zoomeye.org/
+10. leakix          https://leakix.net/
+11. Intelligence X  https://intelx.io/
+12. Netlas          https://app.netlas.io/
+13. Urlscan         https://urlscan.io/
+15. PublicWWW       https://publicwww.com/
+16. Fullhunt        https://fullhunt.io/
+17. Socradar        https://socradar.io/
+18. OSINT           https://osintframework.com/
+19. GHDB            https://www.exploit-db.com/google-hacking-database
+20. Virustotal      https://www.virustotal.com/
+21. URLlencoder     https://www.urlencoder.org/
+22. CyberChef       https://gchq.github.io/CyberChef/
+23. BugBounty       https://github.com/daffainfo/AllAboutBugBounty
+24. Bulitwith       https://builtwith.com/
+25. Emailcrawlr     https://emailcrawlr.com/
+26. WhoisDomain     https://whois.domaintools.com/
+27. WebArchive      https://web.archive.org/
+28. Crt             https://crt.sh/
+
+Whois and DNS
+https://centralops.net
+https://www.lookip.net/
